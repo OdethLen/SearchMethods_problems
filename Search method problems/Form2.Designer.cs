@@ -54,6 +54,7 @@
             BinarySearch.TabIndex = 1;
             BinarySearch.Text = "Binary Search ";
             BinarySearch.UseVisualStyleBackColor = true;
+            BinarySearch.Click += BinarySearch_Click;
             // 
             // btnHash
             // 

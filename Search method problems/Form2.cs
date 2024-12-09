@@ -23,5 +23,12 @@ namespace Search_method_problems
             form.Show();
             this.Hide();
         }
+
+        private void BinarySearch_Click(object sender, EventArgs e)
+        {
+            Form3 form = new Form3();
+            form.Show();
+            this.Hide();
+        }
     }
 }

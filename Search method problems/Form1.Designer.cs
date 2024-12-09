@@ -95,6 +95,7 @@
             Controls.Add(btnLinearSearch);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)dgvSearch).EndInit();
             ResumeLayout(false);
             PerformLayout();

@@ -91,6 +91,11 @@ namespace Search_method_problems
                 row.DefaultCellStyle.ForeColor = Color.Black;
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }
