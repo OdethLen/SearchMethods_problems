@@ -30,5 +30,12 @@ namespace Search_method_problems
             form.Show();
             this.Hide();
         }
+
+        private void btnHash_Click(object sender, EventArgs e)
+        {
+            Form4 form = new Form4();
+            form.Show(); 
+            this.Hide();   
+        }
     }
 }

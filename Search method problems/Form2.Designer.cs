@@ -65,6 +65,7 @@
             btnHash.TabIndex = 2;
             btnHash.Text = "Hash function search";
             btnHash.UseVisualStyleBackColor = true;
+            btnHash.Click += btnHash_Click;
             // 
             // label1
             // 
